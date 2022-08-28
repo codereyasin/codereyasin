@@ -34,9 +34,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codereyasin&" alt="codereyasin" /></p>
 
-
-[<img src='' alt='github' height='40'>](https://github.com/codereyasin)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=codereyasin)  
 
 
