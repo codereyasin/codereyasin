@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Something Cool**
 
-- 👨‍💻 All of my projects are available at portfolio [https://www.eyasinarafat.com/](https://www.eyasinarafat.com/)
+- 👨‍💻 All of my projects are available at My portfolio [https://www.eyasinarafat.com/](https://www.eyasinarafat.com/)
 
 - 💬 Ask me about **React, JavaScript Or next JSS**
 
